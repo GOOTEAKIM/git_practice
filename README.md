@@ -23,6 +23,7 @@
 - `git push 푸쉬할 것 이름 master`
 - `git push origin master`
 - 붙여넣기 `shift + insert 아니면 우클릭`
+- 내려받기 `git pull 파일이름 master`
   
 - 깃과 깃랩은 다르다.
 - 깃허브는 조금 더 오픈되어 있는 느낌이다.
@@ -37,4 +38,11 @@
   - `Add a README file` 빈 폴더를 하나 만든다고 생각하면됨. 원격 저장소 만들 때에는 체크하지 않는다.
   - `gitignore`
   - CLI(명령어) 로 업로드 한다.
-  - 
+
+# 와서 해야할 루틴
+1. 강의장에서 (academy 폴더에서) 새 파일 생성
+2. add commit push (gitlab으로 푸시)
+3. 집 (home 폴더에서) git pull
+4. 집에서 새 파일 생성
+5. add commit push (gitlab으로 푸시)
+6. 강의장에서 git pull gitlab master
